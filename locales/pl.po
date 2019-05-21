@@ -1124,7 +1124,7 @@ msgstr "Nieaktywny"
 
 #: frontend/src/metabase/admin/people/containers/PeopleListingApp.jsx:115
 msgid "Add someone"
-msgstr "Dodaj trochę"
+msgstr "Nowy użytkownik"
 
 #: frontend/src/metabase/admin/people/containers/PeopleListingApp.jsx:132
 msgid "Last Login"
@@ -1132,7 +1132,7 @@ msgstr "Ostatnie logowanie"
 
 #: frontend/src/metabase/admin/people/containers/PeopleListingApp.jsx:153
 msgid "Signed up via Google"
-msgstr "Zapisz się za pomocą Googla"
+msgstr "Zapisz się za pomocą Google"
 
 #: frontend/src/metabase/admin/people/containers/PeopleListingApp.jsx:158
 msgid "Signed up via LDAP"
